@@ -5,6 +5,7 @@ it is a funny game that about Color discrimination.
 
 
 to play the game you should chick the different one.
+
 this is a game that special for you. it can train your eyes
 
 
